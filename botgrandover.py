@@ -69,7 +69,5 @@ class botgrandover(ch.RoomManager):
       else:
         room.message("Nothing to say")
 
-rooms = ["fategrandorder"]
-
 if __name__ == "__main__":
     botgrandover.easy_start()
