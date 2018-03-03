@@ -72,4 +72,4 @@ class botgrandover(ch.RoomManager):
 rooms = ["fategrandorder"]
 
 if __name__ == "__main__":
-    botgrandover.easy_start(rooms, "botgrandover", "Pokemon")
+    botgrandover.easy_start()
